@@ -1,7 +1,12 @@
 # General Information
 This website documents my experience and personal project portfolio.
 
-### Source Information
+## Todo
+- Update Retro Switch header picture to have higher resolution
+- Make portfolio links clickable
+- Add side scroll buttons to portfolio pages
+
+## Source Information
 Template provided by BootstrapMade.com
 
 Template Name: iPortfolio
